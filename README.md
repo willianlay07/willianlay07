@@ -52,3 +52,9 @@ My current focus includes:
 - 👨‍💼 HR AI Assistant
 - 🧠 Multi-Agent AI Framework
 
+## 🎯 Career Goal
+
+My goal is to design and build production-ready AI applications that help businesses automate workflows, improve productivity, and solve real-world problems using Large Language Models (LLMs) and AI Agents.
+
+
+
